@@ -1,4 +1,4 @@
-CREATE DATABASE dripdb;
+CREATE DATABASE IF NOT EXISTS dripdb;
 USE dripdb;
 -- this is here so we can copy+paste the stuff we write in
 
